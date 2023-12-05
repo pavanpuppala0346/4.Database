@@ -1,5 +1,8 @@
 --concept 1 : introduction to sql server
---concept 2 : 
+--concept 2 : Database Architecture part1
+select @@SERVERNAME
+--concept 3 : Database Architecture part2
+--concept 4 : Datatypes part1
 
 
 create database company
