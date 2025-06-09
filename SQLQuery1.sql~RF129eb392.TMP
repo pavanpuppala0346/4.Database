@@ -1229,8 +1229,4 @@ when not matched by source
 then delete;
 
 
---select odd rows
-select * from AMASTER where ACID %2 != 0
-
-
 
